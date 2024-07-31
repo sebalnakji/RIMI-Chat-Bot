@@ -1,4 +1,4 @@
-# rest-in-mind
+# Rest-In-Mind
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -10,7 +10,9 @@
 OpenAI API, assistant API, RAPTOR, VectorDB를 기반으로 RAG를 구성하고,
 정신 의학 데이터를 활용한, 전문 상담 챗봇 RIMI 입니다.
 
+
 ![Sample Image](sample.png)
+
 
 ## 프로젝트 링크
 
