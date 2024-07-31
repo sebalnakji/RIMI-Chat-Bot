@@ -11,7 +11,7 @@ OpenAI API, assistant API, RAPTOR, VectorDB를 기반으로 RAG를 구성하고,
 정신 의학 데이터를 활용한, 전문 상담 챗봇 RIMI 입니다.  
 <br/>
 <br/>
-![Sample Image](sample.png)  
+![Sample Image](sample.png)
 <br/>
 
 ## 프로젝트 링크
