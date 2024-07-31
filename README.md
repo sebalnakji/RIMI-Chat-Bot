@@ -6,9 +6,10 @@
 
 ## [DACON 새싹 해커톤] 정신 상담 및 힐링을 위한 AI 챗봇: RIMI
 
-"Rest In MInd", 정신 질환을 앓고 있는 사람들을 위한 힐링 및 상담 서비스입니다.
-OpenAI API, assistant API, RAPTOR, VectorDB를 기반으로 RAG를 구성하고,
+"Rest In MInd", 정신 질환을 앓고 있는 사람들을 위한 힐링 및 상담 서비스입니다.  
+OpenAI API, assistant API, RAPTOR, VectorDB를 기반으로 RAG를 구성하고,  
 정신 의학 데이터를 활용한, 전문 상담 챗봇 RIMI 입니다.  
+<br/>
 <br/>
 ![Sample Image](sample.png)  
 <br/>
